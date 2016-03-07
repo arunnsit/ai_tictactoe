@@ -1,0 +1,2 @@
+class XogameController < ApplicationController
+end
